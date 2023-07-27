@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(56, 54, 54);
+    color: rgb(187, 185, 185);
+}
+input{
+    border-radius: .5em;
+    border: .1em solid white;
+    height: 2em;
+    color: aliceblue;
+    background-color: black;
+}
+
+.button:hover{
+color: rgb(0, 0, 0);
+background-color: rgb(125, 125, 126);
+border: .1em solid white;
+}
